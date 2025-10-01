@@ -1,16 +1,27 @@
-# Salom! Men [Sizning Ismingiz]man 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Salom%2C%20Men%20Jonniuz1%21&fontSize=80&animation=fadeIn" alt="Header" />
+</div>
 
-## Mening GitHub Statistikam 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonniuz1&show_icons=true&theme=radical)
+<h3 align="center">🚀 Dasturchi | Open Source Ixlosmandi | FullStack Engineer</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniuz1&layout=compact&theme=radical)
+<div align="center">
+  ![Mehmonlar](https://komarev.com/ghpvc/?username=jonniuz1&style=flat-square&color=blue)
+</div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jonniuz1&theme=radical)
+<p align="center">
+  <a href="https://twitter.com/sizning-username"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/sizning-profil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sizning-email@misol.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## Mening Loyihalarim
-- [Loyiha 1](https://github.com/jonniuz1/loyiha1) - Tavsif.
-- [Loyiha 2](https://github.com/jonniuz1/loyiha2) - Tavsif.
+### 👨‍💻 Men Haqimda
 
-## Aloqa
-- Email: sizning-email@misol.com
-- Twitter: @sizning-username
+```javascript
+const men = {
+  ism: "Jonniuz1",
+  joylashuv: "[Sizning Shahringiz, O'zbekiston]",
+  kasb: "Dasturchi",
+  hozirgiIsh: "Qiziqarli loyihalar ustida ishlayapman",
+  qiziqishlar: ["AI", "Web Development", "Open Source"],
+  qiziqarliFakt: "Kuniga 5 chashka choy ichaman! ☕"
+};
